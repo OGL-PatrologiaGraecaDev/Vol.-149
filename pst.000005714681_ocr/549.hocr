@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/149/pst.000005714681/549.png"; bbox 0 0 4084 6338; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1893 309 2963 379">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1893 309 2963 379">
+     <span class='ocr_line' id='line_1_1' title="bbox 1893 309 2963 379; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1893 309 2302 379; x_wconf 88' lang='lat' dir='ltr'><strong>BR60.M5</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2381 309 2603 378; x_wconf 89' lang='lat'><strong>1857</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2677 310 2963 378; x_wconf 84' lang='lat' dir='ltr'><strong>t.149</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2011 409 3876 494">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2011 409 3876 494">
+     <span class='ocr_line' id='line_1_2' title="bbox 2011 409 3876 494; baseline 0 -15"><span class='ocrx_word' id='word_1_4' title='bbox 2011 409 2352 494; x_wconf 85' lang='lat' dir='ltr'><strong>Migne,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2435 416 2846 494; x_wconf 89' lang='lat' dir='ltr'><strong>Jacques</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2915 410 3196 492; x_wconf 88' lang='lat' dir='ltr'><strong>Paul,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3286 409 3876 479; x_wconf 89' lang='lat'><strong>1800-1875.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2135 509 3817 594">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2135 509 3817 594">
+     <span class='ocr_line' id='line_1_3' title="bbox 2135 509 3817 594; baseline -0.001 -14"><span class='ocrx_word' id='word_1_8' title='bbox 2135 509 2733 594; x_wconf 66' lang='lat' dir='ltr'><strong>Patrologia</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2795 529 3149 580; x_wconf 88' lang='lat' dir='ltr'><strong>cursus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 3220 511 3817 593; x_wconf 87' lang='lat' dir='ltr'><strong>completus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1896 611 2653 696">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1896 611 2653 696">
+     <span class='ocr_line' id='line_1_4' title="bbox 1896 611 2653 696; baseline -0.001 -15"><span class='ocrx_word' id='word_1_11' title='bbox 1896 611 2246 681; x_wconf 86' lang='lat' dir='ltr'><strong>Series</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2315 629 2653 696; x_wconf 69' lang='lat' dir='ltr'><strong>graca.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3547 913 3933 982">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3547 913 3933 982">
+     <span class='ocr_line' id='line_1_5' title="bbox 3547 913 3933 982; baseline 0.005 -2"><span class='ocrx_word' id='word_1_13' title='bbox 3547 913 3933 982; x_wconf 82' lang='lat'><strong>5714681</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
